@@ -1,0 +1,3 @@
+conftest.cpp:34:62: warning: 'dllexport' attribute directive ignored [-Wattributes]
+                     __attribute__((dllexport)) int foo( void ) { return 0; }
+                                                              ^
